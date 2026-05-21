@@ -1,0 +1,21 @@
+# Frontend
+streamlit
+
+# Deep Learning / Vision
+torch
+torchvision
+
+# LLM Orchestration & RAG
+langchain
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+
+# Vector Database & Document Parsing
+chromadb
+pypdf
+sentence-transformers
+
+# Environment Variables & Security
+python-dotenv
