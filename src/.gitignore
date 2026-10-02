@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Environnement Python
+venv/
+__pycache__/
+*.pyc
+
+# Donnees et journaux generes
+data/
+triage_audit_log.*
