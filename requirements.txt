@@ -1,21 +1,19 @@
-# Frontend
+# Interface
 streamlit
 
-# Deep Learning / Vision
+# Deep learning / vision
 torch
 torchvision
+pillow
 
-# LLM Orchestration & RAG
-langchain
+# Agents et LLM
+crewai
+langchain-core
 langchain-google-genai
-langchain-community
-langchain-text-splitters
-langchain-huggingface
 
-# Vector Database & Document Parsing
-chromadb
-pypdf
-sentence-transformers
+# Evaluation du modele
+scikit-learn
+matplotlib
 
-# Environment Variables & Security
+# Variables d'environnement
 python-dotenv
